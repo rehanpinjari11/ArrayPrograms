@@ -10,7 +10,7 @@ public class EvenPositionElement {
         {
             if(i % 2 == 0)
             {
-                System.out.println(arr[i] + " ");
+                System.out.print(arr[i] + " ");
             }
 
         }

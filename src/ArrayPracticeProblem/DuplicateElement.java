@@ -12,7 +12,7 @@ public class DuplicateElement {
             {
                 if(arr[i] == arr[j])
                 {
-                    System.out.print(arr[i]);
+                    System.out.print(arr[i] + ",");
                 }
             }
 
